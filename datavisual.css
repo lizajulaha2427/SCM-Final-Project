@@ -1,0 +1,21 @@
+.grid-graphs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+    margin-top: 100px;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    
+}
+.grid-graphs img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.division{
+    margin-top: 7%;
+}
+body{
+    background-color: rgb(237, 237, 245);
+}
