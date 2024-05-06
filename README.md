@@ -1,6 +1,6 @@
 # PERSONAL FINANCE MANAGER
 <div style="text-align:center; border: 1px solid black; padding: 6px;">
-    <img src="https://d28wu8o6itv89t.cloudfront.net/images/PERSONALFINANCEMANAGEMENTjpg-1642582363388.jpeg"alt="picture" alt="picture" width="700"/>
+    <img src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202203/personalfinance1200-sixteen_nine_1.jpg?size=1200:675"alt="picture" alt="picture" width="700"/>
 </div>
 
 
