@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 style="color: black; margin-left: 50px;">Financial Dashboard </h1>
+        <div class="dashboard">
+            <div class="chart-container">
+                <canvas id="expenseChart"></canvas>
+            </div>
+            <div class="summary">
+                <h2>Summary</h2>
+                <div class="summary-item">
+                    <h3>Income</h3>
+                    <p id="incomeAmount">$2000</p>
+                    <input style="height: 30px; margin-left: 5%; background-color: #FFF981; font-size: medium; width: 165px;" type="number" id="newIncome" placeholder="Enter new value">
+                    <button style="margin: 5%;" id="updateIncomeBtn">Update Income</button>
+                </div>
+                <div class="summary-item">
+                    <h3>Expenses</h3>
+                    <p id="expenseAmount">$0</p>
+                </div>
+                <div class="summary-item">
+                    <h3>Savings</h3>
+                    <p id="savingsAmount">$2000</p>
+                </div>
+            </div>
+        </div>
+        <div style="color: black; margin-left: 5px;" class="update-form">
+            <div class="form-group">
+                <label for="newGroceries">New Groceries Expense:</label>
+                <input style="background-color: #DFA4FF; color: black; font-size: medium; width: 130px;" type="number" id="newGroceries" placeholder="Enter new value">
+            </div>
+            <div class="form-group">
+                <label for="newEntertainment">New Entertainment Expense:</label>
+                <input style="background-color: #FFBEDF; color: black; font-size: medium; width: 130px;" type="number" id="newEntertainment" placeholder="Enter new value">
+            </div>
+            <div class="form-group">
+                <label for="newBills">New Bills Expense:</label>
+                <input style="background-color: #FFF981; color: black; font-size: medium; width: 130px;" type="number" id="newBills" placeholder="Enter new value">
+            </div>
+            <div class="form-group">
+                <label for="newOthers">New Others Expense:</label>
+                <input style="background-color:#4bc0c0 ; color: black; font-size: medium; width: 130px;" type="number" id="newOthers" placeholder="Enter new value">
+            </div>
+            <button style="background-color: black; color: white;" id="updateDataBtn">Update Data</button>
+        </div>
+        
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
