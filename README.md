@@ -21,6 +21,9 @@ __Welcome to the PERSONAL FINANCE MANAGER, where we managing your money as well 
 1.Version 1 Release:
 Branch1 and Tag1 named version1 released at 11:50:16 AM IST on May 8, 2024.
 
+2.Version 2 Release:
+Branch2 and Tag1 named version1 released at 00:10:15 AM IST on May 9, 2024.
+
 
 
 
