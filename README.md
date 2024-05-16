@@ -34,6 +34,6 @@ Tag3 named Version3 and financial dashboard and api of signup page released at 0
 | 2| bootstrap.html | Added a collaborative bootstrap page|  22:39 pm| 22:44 pm| Until 12:00 am|  Lakshay Singla|
 | 3| loan.html, loan.css | A base of loan calculator | 23:49 pm| 23:50 pm| Until 2:00 am|  Liza|
 | 4| loan.js |loan calculator which calculates total amount interest according to tenure and amount| 23:49 pm| 23:50 pm| Until 2:00 am|  Liza|
-| 5| financialdashboard.html, styles.css | Added a Financial dashboard to the website| 22:50 pm| 22:52 pm| Until 12:00 am| Liza|
+| 5| dashboard.html, styles.css | Added a Financial dashboard to the website| 22:50 pm| 22:52 pm| Until 12:00 am| Liza|
 | 6| script.js| Added js of Financial dashboard to display a measure of savings, expense in each category etc. | 22:50 pm| 22:52 pm| Until 12:00 am| Liza|
 | 7| api_user.js | Added api verification to signup page|  00:27 am| 20:51 pm| Until 12:00 am|  Lakshay Singla|
