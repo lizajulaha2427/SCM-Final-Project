@@ -16,6 +16,8 @@ __Welcome to the PERSONAL FINANCE MANAGER, where we managing your money as well 
 
 2. Liza- 2310990725
 
+3. Lavish- 2310990724
+
 # Timeline of Releases
 1.Version 1 Release:
 Tag 1 named Version1 and base code released at 11:50:16 AM IST on May 8, 2024.
