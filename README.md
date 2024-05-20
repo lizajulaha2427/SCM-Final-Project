@@ -14,9 +14,9 @@ __Welcome to the PERSONAL FINANCE MANAGER, where we managing your money as well 
 
 1. Lakshay Singla- 2310990723
 
-2. Liza- 2310990725
+2. Lavish- 2310990724
 
-3. Lavish- 2310990724
+3. Liza- 2310990725
 
 # Timeline of Releases
 1.Version 1 Release:
